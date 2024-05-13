@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HkTectonics
 - 👀 I’m interested in Mobile Applications and AI
-- 🌱 I’m currently learning Android development in Kotlin 
+- 🌱 I’m currently learning Android development in Kotlin (Already have 2 years experience in Android Development in Java and Also NODEJS and Angularjs)
 - 💞️ I’m looking to collaborate on any projects in C++ or Android or Linux
 - 📫 How to reach me - Ping me here
 - 😄 Pronouns: That/it
